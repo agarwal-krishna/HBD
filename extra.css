@@ -1,0 +1,18 @@
+body{
+    background-color:black;
+}
+.both{
+    height:410px;
+    width:310px;
+    margin-left:150px;
+    
+}
+.text{
+    color:white;
+    font-family:Arial;
+    margin-left:450px;
+    font-size:30px;
+}
+.side{
+    display:flex;
+}
